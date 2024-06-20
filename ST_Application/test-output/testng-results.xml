@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-08T16:26:41 IST" name="Default suite" finished-at="2024-06-08T16:26:50 IST" duration-ms="8895">
+    <groups>
+    </groups>
+    <test started-at="2024-06-08T16:26:41 IST" name="Default test" finished-at="2024-06-08T16:26:50 IST" duration-ms="8895">
+      <class name="testRunner.SlideTeam_Login_TC_1">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:testRunner.SlideTeam_Login_TC_1@909217e]" started-at="2024-06-08T16:26:41 IST" name="initializeDriver" finished-at="2024-06-08T16:26:44 IST" duration-ms="2819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="ST_TC_1()[pri:0, instance:testRunner.SlideTeam_Login_TC_1@909217e]" started-at="2024-06-08T16:26:44 IST" name="ST_TC_1" finished-at="2024-06-08T16:26:49 IST" duration-ms="5728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ST_TC_1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testRunner.SlideTeam_Login_TC_1@909217e]" started-at="2024-06-08T16:26:49 IST" name="tearDown" finished-at="2024-06-08T16:26:50 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testRunner.SlideTeam_Login_TC_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
